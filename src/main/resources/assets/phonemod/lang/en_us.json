@@ -1,0 +1,11 @@
+{
+    "item.phonemod.mobile_phone": "Smart Phone",
+    "gui.phonemod.title": "Mobile Phone",
+    "button.phonemod.clear_weather": "Clear Weather",
+    "button.phonemod.rain_weather": "Rain",
+    "button.phonemod.thunder_weather": "Thunderstorm",
+    "button.phonemod.day_time": "Dawn (6:00)",
+    "button.phonemod.noon_time": "Noon (12:00)",
+    "button.phonemod.sunset_time": "Sunset (18:00)",
+    "button.phonemod.midnight_time": "Midnight (0:00)"
+  }

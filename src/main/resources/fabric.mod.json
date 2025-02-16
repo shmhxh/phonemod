@@ -1,0 +1,24 @@
+{
+    "schemaVersion": 1,
+    "id": "phonemod",
+    "version": "1.0.0",
+    "name": "智能手机模组",
+    "description": "在MC中添加智能手机功能",
+    "authors": ["srul"],
+    "contact": {
+      "homepage": "https://shmhxh.us.kg",
+      "sources": "https://github.com/shmhxh/phonemod"
+    },
+    "license": "MIT",
+    "icon": "assets/phonemod/icon.png",
+    "environment": "*",
+    "entrypoints": {
+      "main": ["com.example.phone.PhoneMod"],
+      "client": ["com.example.phone.client.PhoneClient"]
+    },
+    "depends": {
+      "fabricloader": ">=0.14.21",
+      "fabric-api": "*",
+      "minecraft": "1.20.x"
+    }
+  }

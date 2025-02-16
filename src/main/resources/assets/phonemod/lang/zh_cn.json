@@ -1,0 +1,21 @@
+{
+    "item.phonemod.mobile_phone": "智能手机",
+    "gui.phonemod.title": "手机控制面板",
+    "gui.phonemod.messages": "短信",
+    
+    "button.phonemod.clear_weather": "晴朗天气",
+    "button.phonemod.rain_weather": "下雨天气",
+    "button.phonemod.thunder_weather": "雷暴天气",
+    
+    "button.phonemod.day_time": "清晨 (6:00)",
+    "button.phonemod.noon_time": "正午 (12:00)",
+    "button.phonemod.sunset_time": "黄昏 (18:00)",
+    "button.phonemod.midnight_time": "午夜 (0:00)",
+    
+    "button.phonemod.take_photo": "拍照",
+    "button.phonemod.messages": "短信",
+    "button.phonemod.send": "发送",
+    
+    "chat.phonemod.low_battery": "§c电量不足，请充电！",
+    "chat.phonemod.photo_saved": "§a照片已保存: %s"
+  }
